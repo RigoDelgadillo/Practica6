@@ -1,9 +1,12 @@
+body{
+    background-color: #D6EAF8;
+}
 header{
     text-align: center;
     margin: 0px;
     margin-bottom: 10px;
     padding: 10px;
-    background-color: #BFC9CA;
+    /* background-color: #BFC9CA; */
 }
 article h2{
     text-align: center;
